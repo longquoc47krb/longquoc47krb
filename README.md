@@ -27,5 +27,5 @@ Welcome everyone <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak
 
 </p>
 <hr>
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leoglme&layout=compact&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515&show_icons=true&count_private=true&hide_border=true">
-[![Long's GitHub stats](https://github-readme-stats.vercel.app/api?username=longquoc47krb)]****
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=longquoc47krb&layout=compact&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515&show_icons=true&count_private=true&hide_border=true">
+
