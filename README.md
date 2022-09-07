@@ -4,6 +4,7 @@ Welcome everyone <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak
 [![CV](https://img.shields.io/badge/-CV-yellow?style=for-the-badge)](https://www.topcv.vn/xem-cv/AwdSWwBWW1UGUFEMAw0AAgQBAF0GAA1TXQJYAQ7a55)
 [![Github](https://img.shields.io/badge/-Github-000?style=for-the-badge&logo=Github&logoColor=white)](https://github.com/longquoc47krb/)
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/longquoc47krb/)
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/long.quoc.0702/)
 ----
 <h3>Things I code with</h3>
 <p>
