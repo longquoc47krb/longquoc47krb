@@ -30,4 +30,4 @@ Welcome everyone <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak
 <hr>
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=longquoc47krb&layout=compact&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515&show_icons=true&count_private=true&hide_border=true">
 <div align="center"><h3 align="center">Visitors</h3><img src="https://profile-counter.glitch.me/%7Blongquoc47krb%7D/count.svg" alt="view_count" /></div>
-<a href="https://app.daily.dev/longquoc47krb"><img src="https://api.daily.dev/devcards/634f4f0929d64235a5925308f168aeda.png?r=d8a" width="400" alt="Long Quoc Nguyen's Dev Card"/></a>
+<div align="right"><a href="https://app.daily.dev/longquoc47krb"><img src="https://api.daily.dev/devcards/634f4f0929d64235a5925308f168aeda.png?r=d8a" width="400" alt="Long Quoc Nguyen's Dev Card"/></a></div>
