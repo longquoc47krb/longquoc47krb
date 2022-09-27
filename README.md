@@ -28,6 +28,7 @@ Welcome everyone <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak
 
 </p>
 <hr>
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/long.quoc.0702/)
 [![GitHub Streak](https://streak-stats.demolab.com?user=longquoc47krb)](https://git.io/streak-stats)
 <hr>
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=longquoc47krb&layout=compact&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515&show_icons=true&count_private=true&hide_border=true">
