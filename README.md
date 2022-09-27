@@ -28,7 +28,11 @@ Welcome everyone <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak
 
 </p>
 <hr>
-[![GitHub Streak](https://streak-stats.demolab.com?user=longquoc47krb)](https://git.io/streak-stats)
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=longquoc47krb&show_icons=true&locale=en&layout=compact" alt="longquoc47krb" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=longquoc47krb&show_icons=true&locale=en" alt="longquoc47krb" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=longquoc47krb&" alt="longquoc47krb" /></p>
 <hr>
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=longquoc47krb&layout=compact&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515&show_icons=true&count_private=true&hide_border=true">
 <div align="center"><h3 align="center">Visitors</h3><img src="https://profile-counter.glitch.me/%7Blongquoc47krb%7D/count.svg" alt="view_count" /></div>
