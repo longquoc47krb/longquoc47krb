@@ -28,7 +28,8 @@ Welcome everyone <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak
 
 </p>
 <hr>
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&border_color=2e4058)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+<hr>
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=longquoc47krb&layout=compact&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515&show_icons=true&count_private=true&hide_border=true">
 <div align="center"><h3 align="center">Visitors</h3><img src="https://profile-counter.glitch.me/%7Blongquoc47krb%7D/count.svg" alt="view_count" /></div>
 
