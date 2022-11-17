@@ -30,7 +30,7 @@ Welcome everyone <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak
 <hr>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=longquoc47krb&theme=dracula&show_icons=true" alt="longquoc47krb" /></p>
 
-<p><img align="center" src="https://streak-stats.demolab.com?user=longquoc47krb&theme=dracula&border_radius=10&date_format=M%20j%5B%2C%20Y%5D" alt="longquoc47krb" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=longquoc47krb" alt="longquoc47krb" /></p>
 <hr>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=longquoc47krb&show_icons=true&locale=en&layout=compact" alt="longquoc47krb" /></p>
 <div align="center"><h3 align="center">Visitors</h3><img src="https://profile-counter.glitch.me/%7Blongquoc47krb%7D/count.svg" alt="view_count" /></div>
