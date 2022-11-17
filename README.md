@@ -28,7 +28,7 @@ Welcome everyone <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak
 
 </p>
 <hr>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=longquoc47krb&theme=dracula&show_icons=true" alt="longquoc47krb" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=longquoc47krb" alt="longquoc47krb" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=longquoc47krb" alt="longquoc47krb" /></p>
 <hr>
