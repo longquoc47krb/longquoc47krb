@@ -28,9 +28,9 @@ Welcome everyone <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak
 
 </p>
 <hr>
-![longquoc47krb](https://github-readme-stats.vercel.app/api/top-langs?username=longquoc47krb&theme=vue-dark) 
-![](https://github-readme-stats.vercel.app/api?username=longquoc47krb&theme=vue-dark) 
-![](https://github-readme-streak-stats.herokuapp.com/?user=longquoc47krb&theme=vue-dark)
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=longquoc47krb&theme=vue-dark" alt="longquoc47krb" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=longquoc47krb&theme=vue-dark" alt="longquoc47krb" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=longquoc47krb&theme=vue-dark" alt="longquoc47krb" /></p>
 <hr>
 <div align="center"><h3 align="center">Visitors</h3><img src="https://profile-counter.glitch.me/%7Blongquoc47krb%7D/count.svg" alt="view_count" /></div>
 
